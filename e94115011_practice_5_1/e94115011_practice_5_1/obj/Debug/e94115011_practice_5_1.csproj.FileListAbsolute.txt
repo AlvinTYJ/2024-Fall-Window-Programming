@@ -1,0 +1,20 @@
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\bin\Debug\e94115011_practice_5_1.exe.config
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\bin\Debug\e94115011_practice_5_1.exe
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\bin\Debug\e94115011_practice_5_1.pdb
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.Form1.resources
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.Properties.Resources.resources
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.exe
+C:\Users\User\Downloads\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.pdb
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\bin\Debug\e94115011_practice_5_1.exe.config
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\bin\Debug\e94115011_practice_5_1.exe
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\bin\Debug\e94115011_practice_5_1.pdb
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.Form1.resources
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.Properties.Resources.resources
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.exe
+C:\Users\User\Downloads\113-1 視窗程式設計 Window Programming\e94115011_practice_5_1\e94115011_practice_5_1\obj\Debug\e94115011_practice_5_1.pdb
