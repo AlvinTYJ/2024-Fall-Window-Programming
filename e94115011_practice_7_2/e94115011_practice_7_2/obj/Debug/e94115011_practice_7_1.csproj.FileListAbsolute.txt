@@ -1,0 +1,24 @@
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\bin\Debug\e94115011_practice_7_1.exe.config
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\bin\Debug\e94115011_practice_7_1.exe
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\bin\Debug\e94115011_practice_7_1.pdb
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.Form1.resources
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.Picture.resources
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.Properties.Resources.resources
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.exe
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.pdb
+C:\Users\User\Downloads\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.text.resources
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\bin\Debug\e94115011_practice_7_1.exe.config
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\bin\Debug\e94115011_practice_7_1.exe
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\bin\Debug\e94115011_practice_7_1.pdb
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.Form1.resources
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.Picture.resources
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.Properties.Resources.resources
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.text.resources
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.exe
+C:\Users\User\Downloads\Windows Practice 7\e94115011_practice_7_1\e94115011_practice_7_1\obj\Debug\e94115011_practice_7_1.pdb

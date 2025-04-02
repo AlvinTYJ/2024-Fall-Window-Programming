@@ -1,0 +1,76 @@
+C:\cs\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+C:\cs\ch11\picBrowse\bin\Debug\picBrowse.exe
+C:\cs\ch11\picBrowse\bin\Debug\picBrowse.pdb
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.csprojResolveAssemblyReference.cache
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.Cache
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.exe
+C:\cs\ch11\picBrowse\obj\Debug\picBrowse.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch11\picBrowse\obj\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\bin\Debug\picBrowse.exe
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\bin\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070419_08\1070419_true_doc\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\bin\Debug\picBrowse.exe
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\bin\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+D:\ncku_school\開課課程\107上學期\正式上課內容\1071030_08\1071030_true_doc\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\bin\Debug\picBrowse.exe
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\bin\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.Cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\bin\Debug\picBrowse.exe
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\bin\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\ncku_school\開課課程\10901\上課教材\1091027_08\1091027_08_true\ch11\picBrowse\obj\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\bin\Debug\picBrowse.exe
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\bin\Debug\picBrowse.pdb
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.csprojAssemblyReference.cache
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.cache
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.csproj.CoreCompileInputs.cache
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\ncku_school\開課課程\11101_視窗程式\1111028_08\1111028_true\ch11\picBrowse\obj\Debug\picBrowse.pdb
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\bin\Debug\picBrowse.exe.config
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\bin\Debug\picBrowse.exe
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\bin\Debug\picBrowse.pdb
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.Form1.resources
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.Picture.resources
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.cache
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.exe
+C:\Users\User\Downloads\week 8 1131101\ch11\3 picBrowse\obj\Debug\picBrowse.pdb
