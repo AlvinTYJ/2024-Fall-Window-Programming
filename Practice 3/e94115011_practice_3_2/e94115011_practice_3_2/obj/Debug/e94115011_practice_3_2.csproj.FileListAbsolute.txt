@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.Form1.resources
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.Form3.resources
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.Form4.resources
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.Properties.Resources.resources
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\bin\Debug\e94115011_practice_3_2.exe.config
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\bin\Debug\e94115011_practice_3_2.exe
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\bin\Debug\e94115011_practice_3_2.pdb
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.exe
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.pdb
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.Form5.resources
+C:\Users\User\Downloads\e94115011_practice_3_2\e94115011_practice_3_2\obj\Debug\e94115011_practice_3_2.Form2.resources
