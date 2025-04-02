@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Downloads\e94115011_practice_8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
